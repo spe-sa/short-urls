@@ -1,0 +1,4 @@
+Django==1.8
+django-extensions==1.7.5
+request>s=2.12.3
+six>=1.10.0
