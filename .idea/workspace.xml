@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97c26be1-8f50-4cf7-ba9d-b30761311479" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/short-urls.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app_purly/static/app_purly/img/qr_winlaw_180xL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app_purly/templates/urly_app/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app_purly/templates/urly_app/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app_purly/templates/urly_app/interstitial.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app_purly/templates/urly_app/redirect.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app_purly/templates/urly_app/shorten.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0002_auto_20161019_2152.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0003_auto_20161020_1653.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0004_auto_20161026_1723.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0005_link_requires_login.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0006_shortbase.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0007_auto_20161026_1807.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0008_auto_20161028_1444.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0009_auto_20161028_1919.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0010_auto_20161102_1349.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0011_auto_20161102_1807.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0012_auto_20161102_1843.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0013_auto_20161102_1948.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0014_auto_20161102_1950.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0015_auto_20161130_2141.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0016_auto_20161130_2154.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0017_auto_20161201_2156.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0018_auto_20161206_2135.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0019_auto_20161207_1522.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0020_link_short_url_hash.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0021_auto_20161207_1547.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0022_auto_20161207_1858.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0023_auto_20161209_2034.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/0024_auto_20161227_2143.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/static/urly_app/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/static/urly_app/img/qr_winlaw_180xL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/static/urly_app/js/clipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/templates/urly_app/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/templates/urly_app/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/templates/urly_app/interstitial.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/templates/urly_app/redirect.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/templates/urly_app/shorten.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_app/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_project/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_project/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_project/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urly_project/wsgi.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/activate" afterPath="$PROJECT_DIR$/bin/activate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/activate.csh" afterPath="$PROJECT_DIR$/bin/activate.csh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/activate.fish" afterPath="$PROJECT_DIR$/bin/activate.fish" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/django-admin" afterPath="$PROJECT_DIR$/bin/django-admin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/django-admin.py" afterPath="$PROJECT_DIR$/bin/django-admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/easy_install" afterPath="$PROJECT_DIR$/bin/easy_install" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/easy_install-2.7" afterPath="$PROJECT_DIR$/bin/easy_install-2.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/pip" afterPath="$PROJECT_DIR$/bin/pip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/pip2" afterPath="$PROJECT_DIR$/bin/pip2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/pip2.7" afterPath="$PROJECT_DIR$/bin/pip2.7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/python-config" afterPath="$PROJECT_DIR$/bin/python-config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/wheel" afterPath="$PROJECT_DIR$/bin/wheel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-    </list>
+    <list default="true" id="97c26be1-8f50-4cf7-ba9d-b30761311479" name="Default" comment="" />
     <ignored path="short-urls.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -554,7 +488,7 @@
     <frame x="20" y="43" width="1400" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
