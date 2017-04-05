@@ -1,4 +1,4 @@
-#!/Users/bfountain/.python_virtualenvs/urly_project/bin/python
+#!/Users/bfountain/.python_virtualenvs/project_purly/bin/python
 from django.core import management
 
 if __name__ == "__main__":
